@@ -191,4 +191,4 @@ print("\nStandard Deviation of the (Population) data is = ",math.sqrt(Variance1)
 
 print("\nStandard Deviation of the (Sample) data is = ",math.sqrt(Variance2))
 
-print("\n\n\t\t\t\tEngr. Ali Raza.Class:BDA. Assignment No 1\n\n")
+print("\n\n\t\t\t\tEngr. Ali Raza\n\n")
