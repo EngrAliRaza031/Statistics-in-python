@@ -3,6 +3,7 @@ Mean, Median, Mode, Variance and Standard Deviation for grouped and ungrouped da
 
  
 **Mean,Median and Mode for Grouped data:**
+
 Class Boundary= lower limit - 0.5 and upper limit + 0.5
 
 Cumulative frequency(c.f): adding each frequency from a frequency table to the sum of its previous frequencies.
