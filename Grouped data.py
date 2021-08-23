@@ -134,3 +134,4 @@ Variance=summation_of_bar_square/summation_of_x
 print("Variance of the data is = ",Variance)
 
 print("Standard Deviation of the data is = ",math.sqrt(Variance))
+
